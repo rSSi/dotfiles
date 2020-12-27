@@ -1,0 +1,4 @@
+pane	0	0	:~/Phone/Nope3	1	:*	0	:/home/rossi/Phone/Nope3	1	zsh	:
+pane	0	0	:~/Phone/Nope3	1	:*	1	:/home/rossi/Soulseek Downloads/complete	0	zsh	:
+window	0	0	1	:*	b335,169x50,0,0{84x50,0,0,0,84x50,85,0,1}
+state	0	

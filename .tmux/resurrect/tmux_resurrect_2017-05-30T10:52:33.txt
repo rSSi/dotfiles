@@ -1,0 +1,5 @@
+pane	0	0	:bash	1	:*	0	:/home/rossi	1	bash	:
+pane	0	0	:bash	1	:*	1	:/home/rossi	0	python	:/usr/bin/python /usr/bin/speedometer -t wlx00c0ca58180d -r wlx00c0ca58180d -l -m 3000000 -i 1
+pane	0	0	:bash	1	:*	2	:/home/rossi	0	sh	:/bin/sh /usr/bin/vimtutor
+window	0	0	1	:*	eadb,169x50,0,0{83x50,0,0[83x35,0,0,0,83x14,0,36,2],85x50,84,0,1}
+state	0	

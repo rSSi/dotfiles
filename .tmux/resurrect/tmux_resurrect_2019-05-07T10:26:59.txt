@@ -1,0 +1,6 @@
+pane	0	0	:~	1	:*	0	:/home/rossi/Dropbox/Web/rossi.klingt.org	0	zsh	:
+pane	0	0	:~	1	:*	1	:/home/rossi	1	zsh	:
+pane	0	1	:..si.klingt.org	0	:-	0	:/home/rossi/Dropbox/Web/rossi.klingt.org	1	zsh	:
+window	0	0	1	:*	eca9,169x41,0,0[169x4,0,0,0,169x36,0,5,2]
+window	0	1	0	:-	b47e,169x41,0,0,1
+state	0	
