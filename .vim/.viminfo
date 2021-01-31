@@ -11,14 +11,32 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:x
-|2,0,1607937294,,"x"
-:w
-|2,0,1605885175,,"w"
-:q!
-|2,0,1605885163,,"q!"
 :q
-|2,0,1605885160,,"q"
+|2,0,1612114636,,"q"
+:x
+|2,0,1612113942,,"x"
+:q!
+|2,0,1612083287,,"q!"
+:ls
+|2,0,1612083270,,"ls"
+:.,.+1ls
+|2,0,1612083241,,".,.+1ls"
+:.ls
+|2,0,1612083234,,".ls"
+:buffers
+|2,0,1612083197,,"buffers"
+:w
+|2,0,1611132283,,"w"
+:!q
+|2,0,1610790292,,"!q"
+:set tabstop=1
+|2,0,1609578472,,"set tabstop=1"
+:set tabstop=2
+|2,0,1609578459,,"set tabstop=2"
+:set smarttab
+|2,0,1609578421,,"set smarttab"
+:set
+|2,0,1609578243,,"set"
 
 # Search String History (newest to oldest):
 
@@ -30,287 +48,401 @@
 
 # Registers:
 "1	LINE	0
-	less ~/Dropbox/Rsi/Hax/usefull/nix_howto.txt
-|3,0,1,1,1,0,1602051319,"less ~/Dropbox/Rsi/Hax/usefull/nix_howto.txt"
-"2	LINE	0
-	howto(){ 'less ~/Dropbox/Rsi/Hax/usefull/nix_howto.txt'
-|3,0,2,1,1,0,1602050719,"howto(){ 'less ~/Dropbox/Rsi/Hax/usefull/nix_howto.txt'"
-"3	LINE	0
-	alias howto='less ~/Dropbox/Rsi/Hax/usefull/nix_howto.txt'
-|3,0,3,1,1,0,1602049502,"alias howto='less ~/Dropbox/Rsi/Hax/usefull/nix_howto.txt'"
-"4	LINE	0
-	file 'ls'
-|3,0,4,1,1,0,1599712525,"file 'ls'"
-"5	LINE	0
 	
-|3,0,5,1,1,0,1592810283,""
+|3,0,1,1,1,0,1610790125,""
+"2	LINE	0
+	less ~/Dropbox/Rsi/Hax/usefull/nix_howto.txt
+|3,0,2,1,1,0,1602051319,"less ~/Dropbox/Rsi/Hax/usefull/nix_howto.txt"
+"3	LINE	0
+	howto(){ 'less ~/Dropbox/Rsi/Hax/usefull/nix_howto.txt'
+|3,0,3,1,1,0,1602050719,"howto(){ 'less ~/Dropbox/Rsi/Hax/usefull/nix_howto.txt'"
+"4	LINE	0
+	alias howto='less ~/Dropbox/Rsi/Hax/usefull/nix_howto.txt'
+|3,0,4,1,1,0,1602049502,"alias howto='less ~/Dropbox/Rsi/Hax/usefull/nix_howto.txt'"
+"5	LINE	0
+	file 'ls'
+|3,0,5,1,1,0,1599712525,"file 'ls'"
 "6	LINE	0
 	
-|3,0,6,1,1,0,1591431990,""
+|3,0,6,1,1,0,1592810283,""
 "7	LINE	0
-	alias untar=tar xvzf "$@"
-|3,0,7,1,1,0,1591431978,"alias untar=tar xvzf \"$@\""
-"8	LINE	0
 	
-|3,0,8,1,1,0,1590309308,""
+|3,0,7,1,1,0,1591431990,""
+"8	LINE	0
+	alias untar=tar xvzf "$@"
+|3,0,8,1,1,0,1591431978,"alias untar=tar xvzf \"$@\""
 "9	LINE	0
-	Service
-|3,0,9,1,1,0,1590309306,"Service"
+	
+|3,0,9,1,1,0,1590309308,""
 ""-	CHAR	0
 	 
-|3,1,36,0,1,0,1605885182," "
+|3,1,36,0,1,0,1612113875," "
 
 # File marks:
-'0  123  0  ~/.dot/.vim/vimrc
-|4,48,123,0,1607937294,"~/.dot/.vim/vimrc"
-'1  4  0  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,49,4,0,1605885194,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
-'2  1  0  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,50,1,0,1605885163,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
-'3  1  0  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,51,1,0,1605885163,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
-'4  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,52,16,0,1602053486,"~/.dot/.oh-my-zsh/custom/alias.zsh"
-'5  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,53,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
-'6  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,54,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
-'7  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,55,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
-'8  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,56,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
-'9  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,57,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
+'0  17  12  ~/.ssh/config
+|4,48,17,12,1612114636,"~/.ssh/config"
+'1  7  8  ~/.ssh/config
+|4,49,7,8,1612113942,"~/.ssh/config"
+'2  7  8  ~/.ssh/config
+|4,50,7,8,1612113942,"~/.ssh/config"
+'3  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,51,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+'4  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,52,16,0,1611479493,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+'5  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,53,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+'6  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,54,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+'7  14  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua
+|4,55,14,0,1610790132,"~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua"
+'8  1  6  ~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua
+|4,56,1,6,1610707518,"~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua"
+'9  1  6  ~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua
+|4,57,1,6,1610707518,"~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua"
 
 # Jumplist (newest first):
--'  123  0  ~/.dot/.vim/vimrc
-|4,39,123,0,1607937294,"~/.dot/.vim/vimrc"
--'  1  0  ~/.dot/.vim/vimrc
-|4,39,1,0,1607937203,"~/.dot/.vim/vimrc"
--'  4  0  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,39,4,0,1605885194,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
--'  4  0  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,39,4,0,1605885194,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
--'  1  0  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,39,1,0,1605885168,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
--'  1  0  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,39,1,0,1605885168,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
--'  1  0  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,39,1,0,1605885163,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
--'  1  0  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,39,1,0,1605885163,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
--'  12  26  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,39,12,26,1605885136,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
--'  12  26  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,39,12,26,1605885136,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
--'  12  26  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,39,12,26,1605885136,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
--'  12  26  ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-|4,39,12,26,1605885136,"~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053486,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053486,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053486,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053486,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053486,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053486,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053486,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053486,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053478,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053478,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053478,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053478,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053478,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053478,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053478,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053478,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  29  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,29,0,1602053276,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053259,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053259,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053259,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053259,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053259,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053259,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053259,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053259,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  16  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,16,0,1602053241,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053211,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053211,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053211,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053211,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053211,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053211,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053211,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  1  0  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,1,0,1602053211,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
--'  20  23  ~/.dot/.oh-my-zsh/custom/alias.zsh
-|4,39,20,23,1602053195,"~/.dot/.oh-my-zsh/custom/alias.zsh"
+-'  17  12  ~/.ssh/config
+|4,39,17,12,1612114636,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1612114610,"~/.ssh/config"
+-'  7  8  ~/.ssh/config
+|4,39,7,8,1612113942,"~/.ssh/config"
+-'  7  8  ~/.ssh/config
+|4,39,7,8,1612113942,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1612113832,"~/.ssh/config"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua
+|4,39,1,0,1612083207,"~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua
+|4,39,1,0,1612083207,"~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua
+|4,39,1,0,1612083207,"~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua
+|4,39,1,0,1612083207,"~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1611479493,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1611479493,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1611479493,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1611479493,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
 
 # History of marks within files (newest to oldest):
 
+> ~/.ssh/config
+	*	1612114635	0
+	"	17	12
+	^	7	9
+	.	7	8
+	+	16	5
+	+	12	5
+	+	18	14
+	+	14	8
+	+	7	8
+
+> ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+	*	1612083286	0
+	"	16	0
+	^	20	42
+	.	20	15
+	+	20	0
+	+	1	0
+	+	2	1
+	+	4	1
+	+	20	15
+
+> ~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua
+	*	1612083275	0
+	"	1	2
+
+> ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+	*	1611132286	0
+	"	12	57
+	^	12	57
+	.	12	20
+	+	12	0
+	+	1	1
+	+	2	2
+	+	12	20
+
+> ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+	*	1610790304	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	5	0
+	+	4	0
+	+	2	44
+	+	17	49
+	+	14	18
+	+	14	0
+	+	2	29
+	+	16	113
+	+	16	24
+	+	15	41
+	+	6	22
+	+	12	0
+	+	15	0
+	+	11	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	2	0
+	+	11	0
+	+	2	7
+	+	11	7
+	+	3	0
+
+> ~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua
+	*	1610790130	0
+	"	14	0
+	^	13	3
+	.	6	0
+	+	1	20
+	+	2	0
+	+	1	22
+	+	4	0
+	+	5	23
+	+	14	0
+	+	6	0
+	+	13	0
+	+	14	0
+	+	6	0
+
+> ~/.cliflix.json
+	*	1609833555	0
+	"	6	2
+	^	3	3
+	.	5	16
+	+	7	0
+	+	2	0
+	+	4	0
+	+	5	0
+	+	4	0
+	+	5	0
+	+	4	0
+	+	6	0
+	+	3	3
+	+	4	26
+	+	5	16
+
 > ~/.dot/.vim/vimrc
-	*	1607937292	0
-	"	123	0
-	^	11	60
-	.	11	59
+	*	1609608573	0
+	"	16	0
+	^	17	16
+	.	16	0
 	+	123	0
 	+	5	0
 	+	21	0
 	+	19	0
 	+	123	0
 	+	11	59
+	+	18	1
+	+	17	15
+	+	16	0
 
-> ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
-	*	1605885193	0
-	"	4	0
-	^	1	1
-	.	1	0
-	+	12	0
-	+	1	40
-	+	12	0
-	+	1	0
+> ~/Dropbox/Projekte/games/nezzl/000/main.lua
+	*	1609203023	0
+	"	3	2
+	^	3	3
+	.	3	0
+	+	2	48
+	+	3	0
+
+> ~/.dot/.gitignore
+	*	1609159667	0
+	"	3	12
+	^	3	13
+	.	3	12
+	+	3	12
+
+> ~/.dot/.git/config
+	*	1609159482	0
+	"	1	0
+	^	7	35
+	.	7	34
+	+	7	34
 
 > ~/.dot/.oh-my-zsh/custom/alias.zsh
-	*	1602053484	0
-	"	16	0
+	*	1609113811	0
+	"	10	0
 	^	16	1
 	.	16	0
 	+	30	0
@@ -343,6 +475,16 @@
 	+	24	4
 	+	25	6
 	+	16	0
+
+> ~/Dropbox/Ö1/Moment.Kulinarium_2020.11.20_Das.Geheimnis.Kakaobutter-Kristalle/info.md
+	*	1605885193	0
+	"	4	0
+	^	1	1
+	.	1	0
+	+	12	0
+	+	1	40
+	+	12	0
+	+	1	0
 
 > ~/Dropbox/Audio/Zweigstelle/BiederBlüten/Videos/Done/files.txt
 	*	1599712527	0
