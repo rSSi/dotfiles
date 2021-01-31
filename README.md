@@ -1,4 +1,4 @@
 # dotfiles
-
-This is my version of the dotfiles I use on my machines.
-Probably nothing new or special :)
+Just the usual dotfile repo.<br>
+Not fancy - not for public use, yet.<br>
+Use at your own risk if you must!
