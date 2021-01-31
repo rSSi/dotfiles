@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:x
+|2,0,1612120918,,"x"
 :q
 |2,0,1612114636,,"q"
-:x
-|2,0,1612113942,,"x"
 :q!
 |2,0,1612083287,,"q!"
 :ls
@@ -79,36 +79,50 @@
 |3,1,36,0,1,0,1612113875," "
 
 # File marks:
-'0  17  12  ~/.ssh/config
-|4,48,17,12,1612114636,"~/.ssh/config"
-'1  7  8  ~/.ssh/config
-|4,49,7,8,1612113942,"~/.ssh/config"
+'0  4  33  ~/.dot/README.md
+|4,48,4,33,1612120918,"~/.dot/README.md"
+'1  17  12  ~/.ssh/config
+|4,49,17,12,1612114636,"~/.ssh/config"
 '2  7  8  ~/.ssh/config
 |4,50,7,8,1612113942,"~/.ssh/config"
-'3  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
-|4,51,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+'3  7  8  ~/.ssh/config
+|4,51,7,8,1612113942,"~/.ssh/config"
 '4  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
-|4,52,16,0,1611479493,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
-'5  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
-|4,53,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
-'6  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,54,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
-'7  14  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua
-|4,55,14,0,1610790132,"~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua"
-'8  1  6  ~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua
-|4,56,1,6,1610707518,"~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua"
+|4,52,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+'5  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,53,16,0,1611479493,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+'6  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,54,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+'7  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
+|4,55,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
+'8  14  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua
+|4,56,14,0,1610790132,"~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua"
 '9  1  6  ~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua
 |4,57,1,6,1610707518,"~/Dropbox/Projekte/games/Löve/nezzl/current/star.lua"
 
 # Jumplist (newest first):
+-'  4  33  ~/.dot/README.md
+|4,39,4,33,1612120918,"~/.dot/README.md"
+-'  1  0  ~/.dot/README.md
+|4,39,1,0,1612120539,"~/.dot/README.md"
 -'  17  12  ~/.ssh/config
 |4,39,17,12,1612114636,"~/.ssh/config"
+-'  17  12  ~/.ssh/config
+|4,39,17,12,1612114636,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1612114610,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
 |4,39,1,0,1612114610,"~/.ssh/config"
 -'  7  8  ~/.ssh/config
 |4,39,7,8,1612113942,"~/.ssh/config"
 -'  7  8  ~/.ssh/config
 |4,39,7,8,1612113942,"~/.ssh/config"
+-'  7  8  ~/.ssh/config
+|4,39,7,8,1612113942,"~/.ssh/config"
+-'  7  8  ~/.ssh/config
+|4,39,7,8,1612113942,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1612113832,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
 |4,39,1,0,1612113832,"~/.ssh/config"
 -'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
@@ -119,6 +133,14 @@
 |4,39,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
 -'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
 |4,39,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1612083287,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
 -'  1  0  ~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua
 |4,39,1,0,1612083207,"~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua"
 -'  1  0  ~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua
@@ -127,6 +149,22 @@
 |4,39,1,0,1612083207,"~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua"
 -'  1  0  ~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua
 |4,39,1,0,1612083207,"~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua
+|4,39,1,0,1612083207,"~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua
+|4,39,1,0,1612083207,"~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua
+|4,39,1,0,1612083207,"~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua"
+-'  1  0  ~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua
+|4,39,1,0,1612083207,"~/Dropbox/Projekte/games/Löve/StarPing/current/main.lua"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1611479493,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1611479493,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1611479493,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,16,0,1611479493,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
 -'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
 |4,39,16,0,1611479493,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
 -'  16  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
@@ -151,6 +189,54 @@
 |4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
 -'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
 |4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  1  0  ~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md
+|4,39,1,0,1611478876,"~/Dropbox/Ö1/Im.Gespräch_2021.01.15_Daniela.Dahn_Journalistin.und.Rainer.Mausfeld_Kognitionsforscher/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
+-'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
+|4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
 -'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
 |4,39,12,57,1611132287,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
 -'  12  57  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
@@ -215,94 +301,17 @@
 |4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
 -'  1  0  ~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md
 |4,39,1,0,1611131808,"~/Dropbox/Ö1/Moment.am.Sonntag_2021.01.17_Das.Familiengefüge.und.die.Demenz/info.md"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  3  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,3,0,1610790306,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
--'  1  0  ~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua
-|4,39,1,0,1610790145,"~/Dropbox/Projekte/games/Löve/nezzl/current/main.lua"
 
 # History of marks within files (newest to oldest):
+
+> ~/.dot/README.md
+	*	1612120917	0
+	"	4	33
+	^	4	34
+	.	3	54
+	+	1	9
+	+	4	33
+	+	3	54
 
 > ~/.ssh/config
 	*	1612114635	0
