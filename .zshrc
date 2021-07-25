@@ -100,4 +100,4 @@ source $ZSH/oh-my-zsh.sh
 export VIMINIT="source ~/.dot/.vim/.vimrc"
 
 # Attach to existing tmux session or simply start tmux
-tmux a || tmux
+# tmux a || tmux
