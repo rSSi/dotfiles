@@ -100,4 +100,6 @@ source $ZSH/oh-my-zsh.sh
 export VIMINIT="source ~/.dot/.vim/.vimrc"
 
 # Attach to existing tmux session or simply start tmux
-# tmux a || tmux
+tmux a || tmux
+
+export PG_OF_PATH=/home/rossi/hax/of_v0.11.2

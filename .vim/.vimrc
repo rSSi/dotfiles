@@ -3,12 +3,18 @@ set nocompatible
 filetype off
 syntax enable
 set relativenumber
+set laststatus=2
 let mapleader = " "
 let rtp=&runtimepath
 set runtimepath=~/.dot/.vim
 let &runtimepath.=','.rtp.',~/.dot/.vim/after'
 set viminfo+=n~/.dot/.vim/.viminfo
 set incsearch " show incremental search results while typing
+
+" SHOW FILE ENCODING IN STATUR LINE
+if has("statusline")
+  set statusline=%<%f\ %h%m%r%=%{\"[\".(&fenc==\"\"?&enc:&fenc).((exists(\"+bomb\")\ &&\ &bomb)?\",B\":\"\").\"]\ \"}%k\ %-14.(%l,%c%V%)\ %P
+endif
 
 " BASIC STYLING:
 set tabstop=2
@@ -29,6 +35,9 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'mattn/emmet-vim'
+Plugin 'junegunn/fzf'
+Plugin 'junegunn/fzf.vim'
+Plugin 'ludovicchabant/vim-gutentags'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -45,6 +54,9 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
 
+" Gutentags
+let g:gutentags_project_root = ['.gutctags']
+let g:gutentags_add_default_project_roots = 0
 
 " FINDING FILES:
 
