@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/rossi/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -99,7 +99,5 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export VIMINIT="source ~/.dot/.vim/.vimrc"
 
-# Attach to existing tmux session or simply start tmux
-tmux a || tmux
-
-export PG_OF_PATH=/home/rossi/hax/of_v0.11.2
+# Open Frameworks path
+export PG_OF_PATH="$HOME/hax/of_v0.11.2"
